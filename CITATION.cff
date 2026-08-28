@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "CPIoT-XAD2025: Hybrid CNN/LSTM Cross-Domain Anomaly Detection for Cyber-Physical IoT"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Inuwa
+    given-names: Muhammad Muhammad
+    email: bature04764@gmail.com
+repository-code: "https://github.com/Bature82/cpiot-xad2025-hybrid-cnn-lstm"
+license: MIT
+version: 1.0.0
+year: 2026
+keywords:
+  - anomaly detection
+  - cyber-physical systems
+  - internet of things
+  - intrusion detection
+  - deep learning

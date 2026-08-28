@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.ipynb_checkpoints/
+.pytest_cache/
+venv/
+.venv/
+.env
+
+# Data and results (not redistributed - see README)
+data/
+results/
+*.keras
+*.h5
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

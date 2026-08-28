@@ -1,0 +1,7 @@
+Initial release: CPIoT-XAD2025 hybrid CNN/LSTM cross-domain anomaly detection
+
+Forecast-based anomaly detection on a row-aligned fusion of network-telemetry
+and physical-process features, under a leakage-safe, anomaly-mass-stratified
+evaluation protocol. Includes three scorers (unsupervised, residual-space
+semi-supervised, hybrid), four operating points, single-stream ablations,
+uncertainty intervals, and a test suite covering the protocol guarantees.
